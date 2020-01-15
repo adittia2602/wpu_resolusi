@@ -1,0 +1,3 @@
+WPU resolusi
+- Bisa membuat aplikasi web
+- Bisa membuat aplikasi android
